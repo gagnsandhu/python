@@ -1,0 +1,41 @@
+{
+    "no_of_attempts":3,    
+    "max_amount":10000,
+    "user_menu":["\t\t\t\tMENU\n","1.Press 1 to view balance.\n","2.Press 2 to Deposit Money.\n","3.Press 3 to withdraw Money.\n","4.Press 4 to trade.\n"
+    ,"5.To see all Stocks\n","6.Press q to quit.\n"],
+    "admin_menu":["a.To see all Users\n","b.To remove any User\n","c.To change role of any User\n","d.To Block any User.\n","e.To unblock any user.\n","f.q to quit.\n"],
+    "admin_traversal":["1.Press 1 for user menu.","2.Press 2 for amdin menu.","3.Q to quit."],
+    "greet":["Welcome !!!","Do you have an Account? \n"],
+    "comman_labels":[
+        {
+            "welcome_admin":"Welcome ADMIN",
+            "valid_input":"Enter Valid input: ",
+            "session_end":"Session ended",
+            "user_do_not_exist": "User dont exists",
+            "user_removed":"Users Removed",
+            "no_such_user": "No such user",
+            "detail":"Enter your details\n",
+            "username_taken":"Username already taken.....\n Try Again",
+            "password_length":"Please typa a Strong Password with atleast 8 characters",
+            "successful":"Successfully Registered!!!\nNow You can login",
+            "suspend":"Account Suspended.Contact Admin",
+            "login":"Successfully Logged In!!!\n",
+            "deposit":"Enter amount you want to Deposit: ",
+            "not_enough_balance": "Not Enough Money!!!",
+            "finally_bought":"Finally Bought!!!",
+            "choice":"Enter your choice: ",
+            "amount_to_withdraw":"Enter amount of money you want to withdraw: ",
+            "login_signup":"Enter Yes if you have account and No for signup and Q to Quit: ",
+            "enter_username":"Enter USERNAME: ",
+            "enter_password":"Enter password: ",
+            "rewrite_password":"Rewrite password..",
+            "dob":"Date of Birth",
+            "first_name":"First Name: ",
+            "last_name":"Last Name: ",
+            "see_all_users":"See all the users!!! and select one from the list...",
+            "block":"Enter username to Block",
+            "unblock":"Enter username to Unblock"
+
+        }
+    ]
+}

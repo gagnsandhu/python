@@ -1,0 +1,33 @@
+import requests
+import bs4
+
+final_authors=[]
+base_url="https://quotes.toscrape.com/page/{}/"
+for id in range(0,20):
+    try:
+        url=f"https://quotes.toscrape.com/page/{id}/"
+        request=requests.get(url)
+        soup=bs4.BeautifulSoup(request.text,'lxml')
+        result=soup.select(".text")
+        for quote in result:
+            # print(quote.getText())
+            pass
+        authors=soup.select(".author")
+        for author in authors:
+            if author not in final_authors:
+                final_authors.append(author.getText()) 
+    except:
+        break
+
+print(set(final_authors))
+# soup=bs4.BeautifulSoup(request.text,'lxml')
+# result=soup.select(".text")
+# for quote in result:
+#     print(quote.getText())
+# authors=soup.select(".author")
+# for author in authors:
+#     print(author.getText())
+
+tags=soup.select(".tag")
+for tag in tags:
+    print(tag.getText())

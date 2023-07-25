@@ -1,0 +1,104 @@
+{
+    "users": [
+        {
+            "username": "gagan",
+            "balance": "100",
+            "suspended": "False"
+        },
+        {
+            "username": "raj",
+            "balance": "860",
+            "suspended": "False"
+        },
+        {
+            "username": "tanuj",
+            "balance": "34",
+            "suspended": "True"
+        },
+        {
+            "username": "yogesh1",
+            "balance": "0",
+            "suspended": "False"
+        },
+        {
+            "username": "ishant",
+            "balance": "0",
+            "suspended": "False"
+        },
+        {
+            "username": "kirat",
+            "balance": "0",
+            "suspended": "False"
+        },
+        {
+            "username": "admin",
+            "balance": "40",
+            "suspended": "False"
+        },
+        {
+            "username": "puru",
+            "balance": "0",
+            "suspended": "False"
+        },
+        {
+            "username": "john",
+            "balance": "1425",
+            "suspended": "False"
+        },
+        {
+            "username": "121",
+            "balance": "111",
+            "suspended": "False"
+        },
+        {
+            "username": "tokyo",
+            "balance": "0",
+            "suspended": "False"
+        },
+        {
+            "username": "manish",
+            "balance": "1450",
+            "suspended": "False"
+        },
+        {
+            "username": "sidhant",
+            "balance": "400",
+            "suspended": "False"
+        },
+        {
+            "username": "oscar",
+            "balance": "0",
+            "suspended": "False"
+        },
+        {
+            "username": "tyson",
+            "balance": "0",
+            "suspended": "False"
+        },
+        {
+            "username": "sahil",
+            "balance": "0",
+            "suspended": "False"
+        },
+        {
+            "username": "sahil12",
+            "balance": "0",
+            "suspended": "False"
+        },
+        {
+            "username": "sahil13",
+            "balance": "0",
+            "suspended": "False"
+        },
+        {
+            "username": "jatt_lyf",
+            "balance": "0",
+            "suspended": "False"
+        },
+        {
+            "username": "jatt",
+            "balance": "700",
+            "suspended": "False"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "users": [
+        {
+            "username": "tanuj",
+            "password": "cda937ce6a345fb833da57f95996b6c3d30084333b688734fb99deb7e3f73ba85a6b63d573a1deaafdc37375d7d5ba957c977ebebe508e9dcceb2ff20bfbeade",
+            "role": "admin"
+        },
+        {
+            "username": "yogesh1",
+            "password": "368e6fc81008c9c204ec4946ba374aba11cb0f09ed2360f75c8d1625473263838021c4df892fb361335a94e8abe0262bd4fe919ff3ea27a139552d8d950a8ad3",
+            "role": "admin"
+        },
+        {
+            "username": "kirat",
+            "password": "368e6fc81008c9c204ec4946ba374aba11cb0f09ed2360f75c8d1625473263838021c4df892fb361335a94e8abe0262bd4fe919ff3ea27a139552d8d950a8ad3",
+            "role": "admin"
+        },
+        {
+            "username": "admin",
+            "password": "3b2429b6b22ee1d29a4b8f4c5b934da5537228effb54b85a6f024054d684b9ec2f86905a8da4d4ef93f9eabb89946bf2aa170358f9828655dab81f631340f745",
+            "role": "admin"
+        },
+        {
+            "username": "puru",
+            "password": "d8ac8fb5043b8bdd6eee7cff941eb840f351d3b7d245c3220c6bfdf389948f2916eb60646dbf31c4bce9193866f7bf1a54f391a7c77dd94cf569c09341aaca48",
+            "role": "user"
+        },
+        {
+            "username": "oscar",
+            "password": "2bc49a5a1ead321baaea0c191f15e5d8cbd82c51e9d7dfb413f22bad600ecede9298886cd1255952206a88dfcdb39f54e1fc31b627d32f8cfdfa337c95dcad3c",
+            "role": "user"
+        },
+        {
+            "username": "tyson",
+            "password": "4605b776ab4b062314e6055f8868977a0f31f353617296120a82ba16f9cadd90d49c3cbe4bf478928a2ed051f0aef5ec18c69153b913b2861621da1b32b7c552",
+            "role": "admin"
+        },
+        {
+            "username": "sahil",
+            "password": "d09bec310a2ee153a1956acf14abd80c899ed2d8c9a04c9237d5906b091d6df3d31e5bb91e371970caa75451ad021d76d7b1cbd3a1ca6b683bbcd7fa3133a7b7",
+            "role": "user"
+        },
+        {
+            "username": "jatt_lyf",
+            "password": "fc0574c7fb6733ff17f64bf4dfb2692e4dc97dde2fd88fd8f663630a236bb7473f2b7fda41c6837060d79f34f82e4694ef425e43aee50e7efc0a9d033a017c1e",
+            "role": "user"
+        }
+    ]
+}
